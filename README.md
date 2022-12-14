@@ -1,6 +1,6 @@
 # Awesome Meta Box
 
-A public repo for everything useful for [Meta Box](https://metabox.io) users. That includes, but not limited to: plugins (on wordpress.org, Github, or somewhere on your personal site), themes, scripts, links and even blog posts.
+A public repo for everything useful for [Meta Box](https://metabox.io) users. That includes, but not limited to: plugins (on wordpress.org, Github, or somewhere on your personal site), code snippets, themes, and even blog posts.
 
 ## Why Awesome Meta Box?
 
@@ -26,11 +26,11 @@ Simply open a [new Github issue](https://github.com/wpmetabox/awesome-meta-box/i
 1. [WP GraphQL MB Relationships](https://github.com/hsimah-services/wp-graphql-mb-relationships): WPGraphQL Provider for MB Relationships.
 1. [WP GraphQL Meta Box Custom Fields](https://github.com/DalkMania/wp-graphql-mb): This plugin is an add-on for the awesome WP GraphQL & WordPress custom fields and custom meta boxes. It builds on top of WP GraphQL and adds all registered meta boxes to the WP GraphQL Endpoint.
 
-### Themes
+### Code snippets
 
 [waiting for your contribution...]
 
-### Scripts
+### Themes
 
 [waiting for your contribution...]
 
