@@ -28,7 +28,7 @@ Simply open a [new Github issue](https://github.com/wpmetabox/awesome-meta-box/i
 
 ### Code snippets
 
-[waiting for your contribution...]
+1. [Timber Twig callback for MB Blocks](https://gist.github.com/jstask82/ec69915874aa4e72a4c42b3402a14a72): Use MB Blocks with Timber. Bare bones approach -> Field definitions are still set in PHP.
 
 ### Themes
 
