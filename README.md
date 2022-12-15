@@ -30,6 +30,7 @@ Simply open a [new Github issue](https://github.com/wpmetabox/awesome-meta-box/i
 ### Code snippets
 
 1. [Timber Twig callback for MB Blocks](https://gist.github.com/jstask82/ec69915874aa4e72a4c42b3402a14a72): Use MB Blocks with Timber. Bare bones approach -> Field definitions are still set in PHP.
+1. [Plugin dependency check](https://gist.github.com/0537da633ca78c62ffc06721057d162e): Checks your projects plugin dependencies, so your code won't break. Does not use Meta Box specific functions, but was created with Meta Box in mind.
 
 ### Themes
 
