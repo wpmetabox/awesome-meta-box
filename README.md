@@ -26,6 +26,7 @@ Simply open a [new Github issue](https://github.com/wpmetabox/awesome-meta-box/i
 1. [WP GraphQL MB Relationships](https://github.com/hsimah-services/wp-graphql-mb-relationships): WPGraphQL Provider for MB Relationships.
 1. [WP GraphQL Meta Box Custom Fields](https://github.com/DalkMania/wp-graphql-mb): This plugin is an add-on for the awesome WP GraphQL & WordPress custom fields and custom meta boxes. It builds on top of WP GraphQL and adds all registered meta boxes to the WP GraphQL Endpoint.
 1. [MVI File Attachment](https://github.com/gaufde/mvi-file-attachment): A gated content plugin perfect for B2B sites. It handles creating and serving expiring download links and automatic CSV exports of submissions. Supports Mailchimp. Requires some paid MB extensions (not included).
+1. [Math Operator Field](https://github.com/kevinlanteri/RWMB_math_operator_Field): RWMB_math_operator_Field is a custom field type that allows you to perform mathematical operations based on the values of other fields. It works with the Meta Box Builder (MBB) plugin and extends its functionality by adding a new field type called "Math Operation." This field type is useful when you need to calculate a value dynamically based on the inputs from other fields.
 
 ### Code snippets
 
